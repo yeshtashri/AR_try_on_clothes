@@ -82,7 +82,7 @@ It enhances the **customer shopping experience by enabling quick virtual fitting
 
 ## 🎥 Demo
 
-> *Include a demo GIF or video link here to illustrate the live try-on system.*
+> *https://youtu.be/WUU12pEqZyE*
 
 ---
 
