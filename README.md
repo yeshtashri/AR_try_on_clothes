@@ -82,7 +82,7 @@ It enhances the **customer shopping experience by enabling quick virtual fitting
 
 ## 🎥 Demo
 
-> *https://youtu.be/WUU12pEqZyE*
+>[Click here to look demo] (*https://youtu.be/WUU12pEqZyE*)
 
 ---
 
